@@ -19,7 +19,7 @@ Hi, I'm Zainal🐸
 🌱 I’m currently learning Laravel 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/mhammdzainal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mzainalilmi04@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mhammdzainal/?utm_source=ig_web_button_share_sheet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mzainalilmi04@gmail.com) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
