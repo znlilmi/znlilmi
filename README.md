@@ -60,4 +60,4 @@
 </p>
 
 <br />
-<p align="center"><em>"Simplicity is the soul of efficiency."</em></p>
+<p align="center"><em>"Live as if you die tomorrow. Learn as if you live forever"</em></p>
