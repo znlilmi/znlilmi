@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-  <strong>Mobile & Web Developer based in Banjarmasin, Indonesia</strong>
+  <strong>Web & Mobile Developer based in Banjarmasin, Indonesia</strong>
 </p>
 
 <p align="center">
   <a href="mailto:mzainalilmi04@gmail.com"><img src="https://img.shields.io/badge/Email-mzainalilmi04%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/username_kamu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/znlilmi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -26,8 +26,8 @@
 ### 💻 Tech Stack & Tools
 
 - **Frontend / Mobile:** `Flutter` / `Dart` / `HTML5` / `CSS3`
-- **Backend & Database:** `PHP` (Native) / `MySQL`
-- **Development Environment:** `Laragon` / `VS Code` / `Git` & `GitHub`
+- **Backend & Database:** `PHP` (Native) / `MySQL` / `Laravel`
+- **Development Environment:** `Laragon` / `VS Code` / `Antigravity` / `Git` & `GitHub`
 
 ---
 
