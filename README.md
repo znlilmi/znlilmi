@@ -30,8 +30,8 @@ I am an Informatics Engineering student at Universitas Islam Kalimantan Muhammad
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [TokoKita](https://github.com/znlilmi/toko-umkm-app) | A multi-merchant e-commerce platform for Indonesian MSMEs, featuring role-based dashboards, inventory tracking, split-order checkout, and reporting. | Laravel, PHP, MySQL, Tailwind CSS |
-| [Project Skripsi](https://github.com/znlilmi/Project-Skripsi) | A mobile attendance application with location-aware workflows for internship and thesis work. | Flutter, Dart |
+| [Toko UMKM](https://github.com/znlilmi/toko-umkm-app) | A multi-merchant e-commerce platform for Indonesian MSMEs, featuring role-based dashboards, inventory tracking, split-order checkout, and reporting. | Laravel, PHP, MySQL, Tailwind CSS |
+| [Mobile Attendance]([https://github.com/znlilmi/Project-Skripsi](https://github.com/znlilmi/mobile-attendance)) | A mobile attendance application with location-aware workflows for internship and thesis work. | Flutter, Dart |
 
 ## Contribution snake
 
