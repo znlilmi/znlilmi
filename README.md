@@ -1,63 +1,47 @@
-<!-- Banner Menggunakan Teks Efek Ketik yang Rapi -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=MUHAMMAD+ZAINAL+ILMI;Informatics+Engineering" alt="Typing SVG" />
+<div align="center">
+
+# Muhammad Zainal Ilmi
+
+**Web & Mobile Developer · Informatics Engineering Student**
+
+Building practical web and mobile applications from Banjarmasin, Indonesia.
+
+[![Email](https://img.shields.io/badge/Email-mzainalilmi04%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mzainalilmi04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/znlilmi)
+
+</div>
+
+## About me
+
+I am an Informatics Engineering student at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari (UNISKA). I build web and mobile applications with a focus on clean, practical, and maintainable solutions.
+
+- Developing with Laravel, PHP, Flutter, and Dart.
+- Experienced in building attendance systems with geofencing.
+- Interested in system optimization, clean code, and scalable application architecture.
+- Open to internship and collaboration opportunities.
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,html,css,git,github,vscode" alt="Flutter, Dart, Laravel, PHP, MySQL, HTML, CSS, Git, GitHub, and VS Code" />
 </p>
 
-<p align="center">
-  <strong>Web & Mobile Developer based in Banjarmasin, Indonesia</strong>
-</p>
+## Featured projects
 
-<p align="center">
-  <a href="mailto:mzainalilmi04@gmail.com"><img src="https://img.shields.io/badge/Email-mzainalilmi04%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/znlilmi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+| Project | Description | Stack |
+| --- | --- | --- |
+| [TokoKita](https://github.com/znlilmi/toko-umkm-app) | A multi-merchant e-commerce platform for Indonesian MSMEs, featuring role-based dashboards, inventory tracking, split-order checkout, and reporting. | Laravel, PHP, MySQL, Tailwind CSS |
+| [Project Skripsi](https://github.com/znlilmi/Project-Skripsi) | A mobile attendance application with location-aware workflows for internship and thesis work. | Flutter, Dart |
+
+## GitHub activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=znlilmi&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics for Muhammad Zainal Ilmi" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znlilmi&layout=compact&hide_border=true" alt="Most used programming languages" height="165" />
 </p>
 
 ---
 
-### 🎓 About Me
-
-- 🏫 Undergrad Student of **Informatics Engineering** at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari (UNISKA).
-- 📱 Passionate about mobile interface design and geolocation tracking system implementations.
-- 🛠️ Experienced in building corporate attendance systems using geofencing methods during internship projects.
-- ⚡ Interested in system optimization, clean code development, and high-efficiency architectures.
-
----
-
-### 💻 Tech Stack & Tools
-
-- **Frontend / Mobile:** `Flutter` / `Dart` / `HTML5` / `CSS3`
-- **Backend & Database:** `PHP` (Native) / `MySQL` / `Laravel`
-- **Development Environment:** `Laragon` / `VS Code` / `Antigravity` / `Git` & `GitHub`
-
----
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <!-- GitHub Stats Card dengan Tema Dark / Rapi -->
-  <img src="https://github-readme-stats.vercel.app/api?username=znlilmi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Zainal's GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znlilmi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 🎨 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/znlilmi/znlilmi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/znlilmi/znlilmi/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/znlilmi/znlilmi/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-### 📈 Contribution Metrics
-
 <p align="center">
-  <!-- Grafik Kontribusi / Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=znlilmi&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
+  <i>Let's build useful software together.</i>
 </p>
-
-<br />
-<p align="center"><em>"Live as if you die tomorrow. Learn as if you live forever"</em></p>
