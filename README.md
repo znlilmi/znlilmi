@@ -33,12 +33,13 @@ I am an Informatics Engineering student at Universitas Islam Kalimantan Muhammad
 | [TokoKita](https://github.com/znlilmi/toko-umkm-app) | A multi-merchant e-commerce platform for Indonesian MSMEs, featuring role-based dashboards, inventory tracking, split-order checkout, and reporting. | Laravel, PHP, MySQL, Tailwind CSS |
 | [Project Skripsi](https://github.com/znlilmi/Project-Skripsi) | A mobile attendance application with location-aware workflows for internship and thesis work. | Flutter, Dart |
 
-## GitHub activity
+## Contribution snake
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=znlilmi&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics for Muhammad Zainal Ilmi" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znlilmi&layout=compact&hide_border=true" alt="Most used programming languages" height="165" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/znlilmi/znlilmi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/znlilmi/znlilmi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/znlilmi/znlilmi/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
