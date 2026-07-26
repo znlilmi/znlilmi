@@ -7,7 +7,7 @@
 Building practical web and mobile applications from Banjarmasin, Indonesia.
 
 [![Email](https://img.shields.io/badge/Email-mzainalilmi04%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mzainalilmi04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/znlilmi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zainal-ilmi-585823297/?skipRedirect=true)
 
 </div>
 
