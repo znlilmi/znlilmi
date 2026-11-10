@@ -2,7 +2,7 @@
 
 <!-- ANIMASI NAMA & ROLE DINAMIS -->
 <a href="https://github.com/znlilmi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there!+%F0%9F%91%8B+I'm+Muhammad+Zainal+Ilmi;Web+%26+Mobile+Developer;Laravel+%2B+Flutter+Enthusiast;Building+Practical+Solutions+from+Banjarmasin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there!+%F0%9F%91%8B+I'm+Muhammad+Zainal+Ilmi;Web+%26+Mobile+Developer;from+Banjarmasin" alt="Typing SVG" />
 </a>
 
 <p align="center">
